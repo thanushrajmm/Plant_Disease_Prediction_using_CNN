@@ -16,8 +16,11 @@ User-Friendly Interface: The system is accessible through a straightforward inte
 
 # Technologies Used
 Python: Programming language used for model development, data preprocessing, and application deployment.
+
 TensorFlow & Keras: Deep learning libraries used to design, train, and test the CNN model.
+
 NumPy: Used for numerical operations and array handling, essential for data manipulation.
+
 Pandas: Data analysis library used for managing dataset metadata.
 
 # Project Workflow
